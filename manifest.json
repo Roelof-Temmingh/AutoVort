@@ -1,0 +1,27 @@
+{
+  "name": "AutoVort",
+  "version": "1.0",
+  "description": "Browses to a list of URLs.",
+  "permissions": [
+    "activeTab",
+    "tabs",
+    "storage",
+    "<all_urls>"
+  ],
+  "manifest_version": 2,
+  "browser_action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "images/a16.png",
+      "32": "images/a32.png",
+      "48": "images/a48.png",
+      "128": "images/a128.png"
+    }
+  },
+  "icons": {
+    "16": "images/a16.png",
+    "32": "images/a32.png",
+    "48": "images/a48.png",
+    "128": "images/a128.png"
+  }
+}
