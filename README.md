@@ -1,3 +1,4 @@
+You can email me at roelof@vortimo.com 
 ## Use like so:
 * Here on GitHub - click the green button that read 'Download / Clone' and select 'Download ZIP'
 * Unzip in a suitable folder - anywhere really
