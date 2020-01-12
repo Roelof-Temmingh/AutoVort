@@ -1,4 +1,9 @@
 You can email me at roelof@vortimo.com 
+## This is a Chrome extension
+
+## Use case of this extension
+* Use to navigate to URLs or social profiles in conjunction with Vortimo (or Hunchly)... or any other extension.
+* Enumerate social profiles. Actually it's pretty generic so you can expand any site in any way you want.
 ## Use like so:
 * Here on GitHub - click the green button that read 'Download / Clone' and select 'Download ZIP'
 * Unzip in a suitable folder - anywhere really
